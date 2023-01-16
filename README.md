@@ -3,7 +3,7 @@ I am LinearVoid
 
 I’m currently working on learning REACT fully and REACT Native as well along with some Unity development!
 
-My contact information is on my site <a href = JoshuaBrunk.com>JoshuaBrunk.com</a> but I also have it below!
+My contact information is on my site <a href = "https://www.JoshuaBrunk.com">JoshuaBrunk.com</a> but I also have it below!
 
 Github : "https://github.com/LinearVoid",
 
